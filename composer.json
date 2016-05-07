@@ -1,0 +1,14 @@
+{
+    "name": "starter/article-bundle",
+    "description": "Provide a basic article entity",
+    "authors": [
+        {
+            "name": "emillosanti",
+            "email": "emil.the.studious@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Starter\\ArticleBundle\\": "" }
+    },
+    "require": {}
+}
