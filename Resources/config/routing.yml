@@ -1,0 +1,3 @@
+starter_article_homepage:
+    path:     /
+    defaults: { _controller: StarterArticleBundle:Default:index }
