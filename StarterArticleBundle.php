@@ -1,5 +1,7 @@
 <?php
 
+// something
+
 namespace Starter\ArticleBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
